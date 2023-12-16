@@ -1,0 +1,367 @@
+@media all and (max-width: 384px){
+.login-area{
+    float: left;
+    margin-left: 0px;
+	
+}
+.not{
+	display:none;
+}
+.site-name h1 a{
+    color: #EE8846;
+    text-decoration: none;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 25px;
+    text-shadow: 2px 2px 0px black;
+}
+.png{
+    float:left;
+    margin-right:0px;
+}
+.login-area ul{
+	margin-left:0px;
+	display:block;
+}
+.login-area ul li{
+    float: left;
+    margin-left:10px;
+}
+.login-area p{
+    margin-left: 100px;
+    color: #D38556;
+    font-weight: bold;
+}
+/* navbar */
+.navbar ul li{
+    float: none;
+    margin: 10px;
+}
+.navbar ul li a{
+	padding-bottom:10px;
+}
+/* section */
+
+.midle-area .image{
+	background-image: url(bg\ images.png);
+    background-size: cover;
+    height: 300px;
+}
+.title h2{
+    margin-top: 0;
+    margin-left: 10px;
+    font-size: 25px;
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
+.title2 p{
+    margin-top: 40px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: #ffa600;
+    text-shadow:1px 1px rgb(0, 0, 0);
+}
+.list ul li {
+    margin-left: 10px;
+    padding: 0;
+}
+.button {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.button input{
+    font-size: 20px;
+    background-color: #ffa600;
+    border: 1px solid #573535;
+    border-radius: 5px;
+    padding-left:15px;
+    padding-right: 15px;
+    box-shadow: 0px 3px 0px rgb(255, 166, 0);
+}
+/* article */
+.first {
+    margin-top: 10px;
+    display: block;
+}
+.first h3{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 8px;
+    color: #005793;
+}
+.first p{
+    text-align: center;
+    font-size:14px ;
+    width: 80%;
+    margin: auto;
+    color: #666666;
+}
+.second h4{
+    text-align: center;
+    font-size: 35px;
+    color:red ;
+}
+.second img{
+    float: left;
+    margin-left:57px;
+}
+.second h5{
+    font-size: 25px;
+    color: #005793;
+    text-align: center;
+    margin: 0;
+}
+.second ul{
+    float: right;
+    margin-right: 0px;
+    margin-top: 0;
+}
+.second ul li a{
+    padding: 2px;
+    display: block;
+    text-decoration: none;
+    color: #797979;
+	text-align:center
+}
+.third h1{
+    color: #005793;
+    font-size: 25px;
+    margin-left: 0px;
+    margin-bottom: 0;
+    display: block;
+	text-align:center;
+}
+.third ul{
+    float: left;
+    margin-left: 0px;
+    margin-top: 0;
+}
+.third ul li a{
+    padding: 2px;
+    display: block;
+    text-decoration: none;
+    color: #797979;
+	text-align:center;
+}
+.third img{
+    float:right;
+    margin-right:49px;
+    margin-top: 0;
+    display: inline-block;
+}
+.fourth img{
+    float: left;
+    margin-left: 60px;
+}
+.fourth h1{
+    font-size: 25px;
+    color: #005793;
+    text-align: center;
+    margin-top: 20px;
+    display: block;
+    margin-right: 0px;
+}
+.fourth ul{
+    float: right;
+    margin-right:0px;
+    margin-top: 0;
+	text-align:center;
+}
+.fourth ul li a{
+    padding: 2px;
+    display: block;
+    text-decoration: none;
+    color: #797979;
+}
+.fifth h1{
+    font-size: 30px;
+    color: #005793;
+    text-align: center;
+    margin-top: 30px;
+    padding-top:  20px;
+}
+.fifth p{
+    text-align: center;
+    font-size:15px ;
+    width: 80%;
+    margin: auto;
+    color: #666666;
+}
+.fifth img{
+    margin: 10px auto;
+    display: block;
+	height:200px;
+	width:384px;
+}
+.step h1{
+    color: #0e3b58bb;
+    font-size: 25px;
+    text-align: center;
+
+}
+.step-area .step1{
+    float: left;
+    margin-left:20px;
+}
+.step1 img {
+    margin-left: 140px;
+    margin-bottom: 10px;
+}
+.step1 h2{
+    margin: 10px auto;
+    text-align: center;
+    color: #0171BC;
+}
+.step1 p{
+    text-align: center;
+    color: #615e5e;
+    font-size: 16px;
+}
+.step-area .step2{
+    float: left;
+    margin-left:10px;
+}
+.step2 img{
+    margin-left:155px;
+    margin-bottom: 10px;
+}
+.step2 h2{
+    margin: 10px auto;
+    text-align: center;
+    color: #0171BC;
+}
+.step2 p{
+    text-align: center;
+    color: #615e5e;
+    font-size: 16px;
+}
+.step-area .step3{
+    float: right;
+    margin-right: 25px;
+}
+.step3 img{
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+.step3 h2{
+    margin: 10px auto;
+    text-align: center;
+    color: #0171BC;
+}
+.step3 p{
+    text-align: center;
+    color: #615e5e;
+    font-size: 16px;
+}
+.last{
+    overflow: hidden;
+}
+.last img{
+    float: left;
+	margin-top:20px;
+    margin-left:10px;
+	height:100px;
+	width:100px;
+}
+.last h3{
+    color: #0171BC;
+    margin-left:30px;
+    margin-top:20px;
+    margin-bottom: 0;
+    font-size: 20px;
+}
+.last p{
+    color: #797979;
+    font-size: 17px;
+    text-align: left;
+    margin-left:10px;
+
+}
+.last2{
+    height: 50px;
+    background-color: #0171BC;
+    overflow: hidden;
+    margin-top:10px;
+}
+.last2 h1{
+    float: left;
+    font-size:13px;
+    color: whitesmoke;
+    font-weight: normal;
+    margin:17px 10px;
+}
+.last2 input{
+    float:right;
+    font-size:15px;
+    padding:0px 0px;
+    margin-right:25px;
+    margin-top:15px;
+    background-color: rgb(255, 203, 8);
+    border: 1px solid rgb(255, 203, 8);
+    border-radius:4px;
+}
+}
+@media all and (max-width: 360px ){
+	
+	.login-area{
+    float: left;
+    margin-left: 0px;
+	
+}
+.not{
+	display:none;
+}
+.site-name h1 a{
+    color: #EE8846;
+    text-decoration: none;
+    margin-left: 85px;
+    font-weight: bold;
+    font-size: 25px;
+    text-shadow: 1px 0px 0px black;
+}
+.livechat .png{
+    float:left;
+    margin-right:0px;
+	height:10px;
+	width:10px;
+}
+.login-area ul{
+	overflow:hidden;
+	margin-right:7px;
+	display:block;
+}
+.login-area ul li{
+    float: left;
+    margin-left:0px;
+}
+.login-area p{
+    margin-left:100px;
+    color: #D38556;
+    font-weight: bold;
+}
+.last2{
+    height: 30px;
+    background-color: #0171BC;
+    overflow: hidden;
+    margin-top:10px;
+}
+.last2 h1{
+    float: left;
+    font-size:10px;
+    color: whitesmoke;
+    font-weight: normal;
+    margin:8px 5px;
+}
+.last2 input{
+    float:right;
+    font-size:12px;
+    padding:0px;
+    margin-right:25px;
+    margin-top:7px;
+    background-color: rgb(255, 203, 8);
+    border: 1px solid rgb(255, 203, 8);
+    border-radius:4px;
+}
+}
+
+
+}
